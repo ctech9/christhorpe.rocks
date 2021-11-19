@@ -18,11 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Inside the mind of Christopher Thorpe
+title: Inside the mind of Chris Thorpe
 email: chris@christhorpe.rocks
 description: >- # this means to ignore newlines until "baseurl:"
   Just a shitty programmer with too much free time to blog about random shit.
-  All contents Copyright (C) Christopher Thorpe. Usage & sharing permitted in accordance
+  All contents Copyright © Chris Thorpe. Usage & sharing permitted in accordance
   with Creative Commons CC BY-NC-SA 4.0 as described in the license.
 
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -30,7 +30,7 @@ url: "https://christhorpe.rocks" # the base hostname & protocol for your site, e
 
 blogpostfooter: >- 
   <span style="color: #8A8A8A">
-  Copyright 2021 Chris Thorpe. Usage & sharing permitted in accordance with Creative Commons CC BY-NC-SA 4.0 as described in the license.
+  Copyright © Chris Thorpe. Usage & sharing permitted in accordance with Creative Commons CC BY-NC-SA 4.0 as described in the license.
   
   Thank you for reading.
   </span>

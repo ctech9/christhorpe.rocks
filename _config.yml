@@ -22,11 +22,16 @@ title: Inside the mind of Christopher Thorpe
 email: chris@christhorpe.rocks
 description: >- # this means to ignore newlines until "baseurl:"
   Just a shitty programmer with too much free time to blog about random shit.
-  All contents Copyright (C) Christopher Thorpe. Usage permitted in accordance
-  with Creative Commons CC BY-NC-SA 4.0 as described (here.)[/license]
+  All contents Copyright (C) Christopher Thorpe. Usage & sharing permitted in accordance
+  with Creative Commons CC BY-NC-SA 4.0 as described in the license.
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://christhorpe.rocks" # the base hostname & protocol for your site, e.g. http://example.com
+
+blogpostfooter: >- 
+  Copyright 2021 Chris Thorpe. Usage & sharing permitted in accordance with Creative Commons CC BY-NC-SA 4.0 as described in the license.
+  
+  Thank you for reading.
 
 # Build settings
 theme: minima

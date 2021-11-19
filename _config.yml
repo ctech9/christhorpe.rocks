@@ -19,7 +19,9 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Inside the mind of Chris Thorpe
-email: chris@christhorpe.rocks
+author:
+  name: Chris Thorpe
+  email: chris@christhorpe.rocks
 description: >- # this means to ignore newlines until "baseurl:"
   Just a shitty programmer with too much free time to blog about random shit.
   All contents Copyright © Chris Thorpe. Usage & sharing permitted in accordance

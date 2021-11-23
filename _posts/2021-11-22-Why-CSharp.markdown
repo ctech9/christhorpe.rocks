@@ -43,9 +43,9 @@ class Program {
 }
 ```
 
-Now, before you say "Well, what about python's hello world application?" I'll say:
+Yes, there are some languages that are a lot simpler than C#, e.g. Python.
 
-We'll talk about that later.
+Don't worry, we'll talk about that later.
 
 ### Compatibility
 

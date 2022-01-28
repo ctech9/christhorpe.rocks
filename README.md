@@ -4,7 +4,7 @@
 
 This is my personal blog website. Just a place for me to give my take and vent. visit at [christhorpe.rocks](https://christhorpe.rocks/).
 
-## Source:
+## Source
 
 ### Prerequisites
 
